@@ -6,7 +6,7 @@ TODO:
 
  - [ ] Merge other smartly 
 
- - [-] Permit names 
+ - [ ] Permit custom names for fields, methods and types.
 
  - [ ] Choose where mod will be loaded 
 
