@@ -1,0 +1,6 @@
+/home/dadoum/RiderProjects/Hook .NET/ExampleExe/bin/Debug/ExampleExe.exe
+/home/dadoum/RiderProjects/Hook .NET/ExampleExe/bin/Debug/ExampleExe.pdb
+/home/dadoum/RiderProjects/Hook .NET/ExampleExe/obj/Debug/ExampleExe.csproj.CoreCompileInputs.cache
+/home/dadoum/RiderProjects/Hook .NET/ExampleExe/obj/Debug/ExampleExe.exe
+/home/dadoum/RiderProjects/Hook .NET/ExampleExe/obj/Debug/ExampleExe.pdb
+/home/dadoum/RiderProjects/Hook .NET/ExampleExe/obj/Debug/ExampleExe.csprojAssemblyReference.cache

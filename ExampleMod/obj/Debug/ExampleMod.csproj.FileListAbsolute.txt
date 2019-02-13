@@ -1,0 +1,11 @@
+/home/dadoum/RiderProjects/Hook .NET/ExampleMod/bin/Debug/ExampleMod.dll
+/home/dadoum/RiderProjects/Hook .NET/ExampleMod/bin/Debug/ExampleMod.pdb
+/home/dadoum/RiderProjects/Hook .NET/ExampleMod/bin/Debug/Mod.Properties.dll
+/home/dadoum/RiderProjects/Hook .NET/ExampleMod/bin/Debug/Mod.Properties.pdb
+/home/dadoum/RiderProjects/Hook .NET/ExampleMod/obj/Debug/ExampleMod.csprojAssemblyReference.cache
+/home/dadoum/RiderProjects/Hook .NET/ExampleMod/obj/Debug/ExampleMod.csproj.CoreCompileInputs.cache
+/home/dadoum/RiderProjects/Hook .NET/ExampleMod/obj/Debug/ExampleMod.csproj.CopyComplete
+/home/dadoum/RiderProjects/Hook .NET/ExampleMod/obj/Debug/ExampleMod.dll
+/home/dadoum/RiderProjects/Hook .NET/ExampleMod/obj/Debug/ExampleMod.pdb
+/home/dadoum/RiderProjects/Hook .NET/Hook .NET/bin/Debug/ExampleMod.dll
+/home/dadoum/RiderProjects/Hook .NET/Hook .NET/bin/Debug/ExampleMod.pdb

@@ -1,0 +1,6 @@
+/home/dadoum/RiderProjects/Hook .NET/Hook.Library/bin/Debug/Hook.Library.dll
+/home/dadoum/RiderProjects/Hook .NET/Hook.Library/bin/Debug/Hook.Library.pdb
+/home/dadoum/RiderProjects/Hook .NET/Hook.Library/obj/Debug/Hook.Library.csprojAssemblyReference.cache
+/home/dadoum/RiderProjects/Hook .NET/Hook.Library/obj/Debug/Hook.Library.csproj.CoreCompileInputs.cache
+/home/dadoum/RiderProjects/Hook .NET/Hook.Library/obj/Debug/Hook.Library.dll
+/home/dadoum/RiderProjects/Hook .NET/Hook.Library/obj/Debug/Hook.Library.pdb

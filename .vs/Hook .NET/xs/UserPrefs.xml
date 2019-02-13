@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{EDAB1EE6-2E4E-4536-B4E8-5D4A304E1269}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Mod/Program.cs">
+    <Files>
+      <File FileName="Mod/Program.cs" Line="21" Column="2" />
+      <File FileName="Hook .NET/Program.cs" Line="21" Column="2" />
+      <File FileName="Hook.Library.Core/Hook.cs" Line="7" Column="9" />
+      <File FileName="Hook.Library/Hook.cs" Line="209" Column="1" />
+      <File FileName="Mod.Properties.Core/ModAttribute.cs" Line="5" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Hook_220.NET PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/home/dadoum/RiderProjects/Hook .NET/Mod.Properties/bin/Debug/Mod.Properties.dll
+/home/dadoum/RiderProjects/Hook .NET/Mod.Properties/bin/Debug/Mod.Properties.pdb
+/home/dadoum/RiderProjects/Hook .NET/Mod.Properties/obj/Debug/Mod.Properties.csprojAssemblyReference.cache
+/home/dadoum/RiderProjects/Hook .NET/Mod.Properties/obj/Debug/Mod.Properties.csproj.CoreCompileInputs.cache
+/home/dadoum/RiderProjects/Hook .NET/Mod.Properties/obj/Debug/Mod.Properties.dll
+/home/dadoum/RiderProjects/Hook .NET/Mod.Properties/obj/Debug/Mod.Properties.pdb

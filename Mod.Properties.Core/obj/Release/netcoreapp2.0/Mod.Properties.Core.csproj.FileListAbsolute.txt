@@ -1,0 +1,9 @@
+/home/dadoum/RiderProjects/Hook .NET/Mod.Properties.Core/bin/Release/netcoreapp2.0/Mod.Properties.Core.deps.json
+/home/dadoum/RiderProjects/Hook .NET/Mod.Properties.Core/bin/Release/netcoreapp2.0/Mod.Properties.Core.dll
+/home/dadoum/RiderProjects/Hook .NET/Mod.Properties.Core/bin/Release/netcoreapp2.0/Mod.Properties.Core.pdb
+/home/dadoum/RiderProjects/Hook .NET/Mod.Properties.Core/obj/Release/netcoreapp2.0/Mod.Properties.Core.csprojAssemblyReference.cache
+/home/dadoum/RiderProjects/Hook .NET/Mod.Properties.Core/obj/Release/netcoreapp2.0/Mod.Properties.Core.csproj.CoreCompileInputs.cache
+/home/dadoum/RiderProjects/Hook .NET/Mod.Properties.Core/obj/Release/netcoreapp2.0/Mod.Properties.Core.AssemblyInfoInputs.cache
+/home/dadoum/RiderProjects/Hook .NET/Mod.Properties.Core/obj/Release/netcoreapp2.0/Mod.Properties.Core.AssemblyInfo.cs
+/home/dadoum/RiderProjects/Hook .NET/Mod.Properties.Core/obj/Release/netcoreapp2.0/Mod.Properties.Core.dll
+/home/dadoum/RiderProjects/Hook .NET/Mod.Properties.Core/obj/Release/netcoreapp2.0/Mod.Properties.Core.pdb

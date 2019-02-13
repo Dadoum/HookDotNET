@@ -1,0 +1,15 @@
+/home/dadoum/RiderProjects/Hook .NET/Hook .NET/obj/Debug/Hook .NET.csprojAssemblyReference.cache
+/home/dadoum/RiderProjects/Hook .NET/Hook .NET/obj/Debug/Hook .NET.csproj.CoreCompileInputs.cache
+/home/dadoum/RiderProjects/Hook .NET/Hook .NET/bin/Debug/mod.exe
+/home/dadoum/RiderProjects/Hook .NET/Hook .NET/bin/Debug/mod.pdb
+/home/dadoum/RiderProjects/Hook .NET/Hook .NET/obj/Debug/mod.exe
+/home/dadoum/RiderProjects/Hook .NET/Hook .NET/obj/Debug/mod.pdb
+/home/dadoum/RiderProjects/Hook .NET/Hook .NET/bin/Debug/Hook.Library.dll
+/home/dadoum/RiderProjects/Hook .NET/Hook .NET/bin/Debug/Mod.Properties.dll
+/home/dadoum/RiderProjects/Hook .NET/Hook .NET/bin/Debug/Mono.Cecil.dll
+/home/dadoum/RiderProjects/Hook .NET/Hook .NET/bin/Debug/Mono.Cecil.Mdb.dll
+/home/dadoum/RiderProjects/Hook .NET/Hook .NET/bin/Debug/Mono.Cecil.Pdb.dll
+/home/dadoum/RiderProjects/Hook .NET/Hook .NET/bin/Debug/Mono.Cecil.Rocks.dll
+/home/dadoum/RiderProjects/Hook .NET/Hook .NET/bin/Debug/Hook.Library.pdb
+/home/dadoum/RiderProjects/Hook .NET/Hook .NET/bin/Debug/Mod.Properties.pdb
+/home/dadoum/RiderProjects/Hook .NET/Hook .NET/obj/Debug/Hook .NET.csproj.CopyComplete
