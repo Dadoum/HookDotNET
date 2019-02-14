@@ -5,7 +5,7 @@ TODO:
 
  - [x] Hook mods made for. 
 
- - [x] Smart merging __Added in "Added new function" commit__
+ - [x] Smart merging - _Added in "Added new function" commit_
 
  - [ ] Permit custom names for fields, methods and types.
 
